@@ -1,6 +1,15 @@
-# Esbuild を使用した GAS 用テンプレートです
+# GoogleChatBot を構築する手順です
 
-## 開発方法
+## 流れ(各参考ページを参照して設定します)
+
+1. 参考ページを参照して Chat 用アプリを開発設定する
+
+   - [参考ページ](https://developers.google.com/workspace/chat/quickstart/apps-script-app?hl=ja "GoogleChatアプリを作成する")
+
+1. チャットアプリのテストが終了したら社内公開する
+   - [参考ページ](https://developers.google.com/workspace/chat/apps-publish?hl=ja "GoogleWorkspace　MarketPlace")
+
+### esBuild を使用した開発方法
 
 ```bash
 # git@github.com:aktservice/gasEsbuildTemp.git
